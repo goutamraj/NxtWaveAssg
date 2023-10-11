@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Home Inventory Manager</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="bg-primary text-white text-center py-5">
+        <h1>Welcome to Home Inventory Manager</h1>
+        <p>Your solution for organized living</p>
+    </header>
+
+    <!-- Features Section -->
+    <section class="container my-5">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="feature">
+                    <i class="fas fa-box-open"></i>
+                    <h3>Inventory Tracking</h3>
+                    <p>Effortlessly keep track of your belongings.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="feature">
+                    <i class="fas fa-search"></i>
+                    <h3>Quick Search</h3>
+                    <p>Find your items in seconds with our search feature.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="feature">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Secure and Private</h3>
+                    <p>Your data is safe and private with us.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="bg-light text-center py-5">
+        <h2>Get Started Today</h2>
+        <p>Join thousands of users who have simplified their home management.</p>
+        <a href="#" class="btn btn-primary">Sign Up Now</a>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="container my-5">
+        <h2 class="text-center">What Our Users Say</h2>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="testimonial">
+                    <p>"Home Inventory Manager has made my life so much easier. I can't imagine going back to the old way."</p>
+                    <cite>- Happy User 1</cite>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="testimonial">
+                    <p>"I love how I can find anything I need in my home with just a few clicks. It's a game-changer."</p>
+                    <cite>- Happy User 2</cite>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="testimonial">
+                    <p>"Finally, a solution to my cluttered life. Home Inventory Manager is a must-have for anyone."</p>
+                    <cite>- Happy User 3</cite>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Home Inventory Manager</p>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</body>
+</html>
