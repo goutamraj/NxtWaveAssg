@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Trivia App for Teens</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Trivia App</div>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#download">Download</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Test Your Knowledge!</h1>
+            <p>Join thousands of teens in a fun and educational trivia experience.</p>
+            <a href="#download" class="cta-button">Download Now</a>
+        </div>
+    </header>
+
+    <section id="features">
+        <div class="feature">
+            <img src="icon1.png" alt="Feature 1">
+            <h2>Engaging Quizzes</h2>
+            <p>Explore a wide range of engaging quizzes on various topics.</p>
+        </div>
+        <div class="feature">
+            <img src="icon2.png" alt="Feature 2">
+            <h2>Compete with Friends</h2>
+            <p>Challenge your friends and see who's the trivia master.</p>
+        </div>
+        <div class="feature">
+            <img src="icon3.png" alt="Feature 3">
+            <h2>Earn Rewards</h2>
+            <p>Collect rewards and badges as you progress through quizzes.</p>
+        </div>
+    </section>
+
+    <section id="download">
+        <div class="download-content">
+            <h2>Download Our App Today</h2>
+            <p>Join the fun and start your trivia journey now!</p>
+            <a href="#" class="cta-button">Download Now</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <p>Have questions or feedback? Get in touch with us.</p>
+            <form>
+                <input type="text" placeholder="Your Name">
+                <input type="email" placeholder="Your Email">
+                <textarea placeholder="Your Message"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">Trivia App</div>
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
